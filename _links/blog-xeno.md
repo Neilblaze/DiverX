@@ -1,3 +1,3 @@
 ---
-target: https://github.com/x3nosiz
+target: https://neox.netlify.app/
 ---
