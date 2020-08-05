@@ -1,6 +1,6 @@
 # Diverx - v0.5.1
 
-Updated 04.08.20 "under _links" :~
+Updated 04.08.20 - https://nxnil.ml/
 
 - Github
 
