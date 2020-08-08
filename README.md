@@ -6,6 +6,7 @@ Updated 05.08.20 - https://nxnil.ml/
 - Github2 ⇄ X3NOSIZ ⎇
 - Blog-Neox ⇄ X3NOSIZ ⎇
 - Neox ⇄ X3NOSIZ ⎇
+- DC ⇄ DistriC0D3 ⎇
 
 
 #### ©[Neilblaze](https://github.com/Neilblaze) 2020
