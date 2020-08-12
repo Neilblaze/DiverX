@@ -1,4 +1,4 @@
-# Nxnil // Neox - v0.5.1 &nbsp; [![HitCount](http://hits.dwyl.com/Neilblaze/Neilblaze.svg)](http://hits.dwyl.com/Neilblaze/Neilblaze)
+# Nxnil // Neox - v0.5.1 &nbsp; [![Build](https://travis-ci.org/Neilblaze/nxnil.svg?branch=master)](https://travis-ci.org/github/Neilblaze/nxnil)
 
 Updated 05.08.20 - https://nxnil.ml/
 
