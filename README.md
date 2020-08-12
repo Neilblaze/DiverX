@@ -1,4 +1,4 @@
-# Nxnil // Neox - v0.5.1
+# Nxnil // Neox - v0.5.1 &nbsp; [![HitCount](http://hits.dwyl.com/Neilblaze/Neilblaze.svg)](http://hits.dwyl.com/Neilblaze/Neilblaze)
 
 Updated 05.08.20 - https://nxnil.ml/
 
