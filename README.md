@@ -7,6 +7,7 @@ Updated 05.08.20 - https://nxnil.ml/
 - Blog-Neox ⇄ X3NOSIZ ⎇
 - Neox ⇄ X3NOSIZ ⎇
 - DC ⇄ DistriC0D3 ⎇
+- SV ⇄ SMAPVIW ⎇
 
 
 #### ©[Neilblaze](https://github.com/Neilblaze) 2020
